@@ -2,7 +2,7 @@
 
 ## About
 
-A professional water services website built with modern web technologies and PostgreSQL database.
+A professional water services website built with modern web technologies and PostgreSQL database
 
 ## Technologies Used
 
