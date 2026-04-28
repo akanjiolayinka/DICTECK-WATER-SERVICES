@@ -13,7 +13,7 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 - PostgreSQL
-- Node.js pg driver
+- Node.js pg 
 
 ## Prerequisites
 
